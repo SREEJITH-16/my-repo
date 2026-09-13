@@ -1,0 +1,466 @@
+{
+  "profile": {
+    "name": "Sreejith S",
+    "headline": "Software Engineer & Full-Stack Developer",
+    "location": "Chennai, India",
+    "tagline": "Building Impact Through Code.",
+    "bio": [
+      "I'm a Computer Science student at SRM Institute of Science and Technology, passionate about building software that solves real problems.",
+      "I enjoy working on full-stack, AI/ML and IoT-based solutions, and I'm always curious to learn new technologies and take on challenging projects that create real impact."
+    ],
+    "education": {
+      "degree": "B.Tech, Computer Science and Engineering",
+      "institution": "SRM Institute of Science and Technology",
+      "campus": "Vadapalani Campus, Chennai",
+      "duration": "2024 \u2013 2028",
+      "expectedGraduation": "2028"
+    },
+    "interests": [
+      "Web Development",
+      "AI/ML",
+      "IoT"
+    ],
+    "goal": "Build meaningful, real-world software solutions",
+    "email": "sreejithsuresh9443@gmail.com",
+    "collegeEmail": "ss7198@srmist.edu.in",
+    "phone": "+91 6383511258",
+    "github": "https://github.com/SREEJITH-16",
+    "linkedin": "https://www.linkedin.com/in/sreejiths16",
+    "resumeUrl": "",
+    "portraitUrl": "/images/sreejith-portrait.jpg",
+    "stats": [
+      {
+        "label": "Projects",
+        "value": "6+"
+      },
+      {
+        "label": "Company",
+        "value": "1"
+      },
+      {
+        "label": "Learning",
+        "value": "Always"
+      }
+    ]
+  },
+  "academic": {
+    "cgpa": 8.98,
+    "semestersCompleted": 4,
+    "expectedGraduation": "2028",
+    "degree": "B.Tech Computer Science and Engineering",
+    "institution": "SRM Institute of Science and Technology",
+    "campus": "Vadapalani Campus, Chennai",
+    "duration": "2024 \u2013 2028",
+    "semesters": [
+      {
+        "semester": "Semester 1",
+        "period": "Dec 2024",
+        "sgpa": 8.682
+      },
+      {
+        "semester": "Semester 2",
+        "period": "May 2025",
+        "sgpa": 8.667
+      },
+      {
+        "semester": "Semester 3",
+        "period": "Nov 2025",
+        "sgpa": 9.13
+      },
+      {
+        "semester": "Semester 4",
+        "period": "May 2026",
+        "sgpa": 9.45
+      }
+    ],
+    "schooling": [
+      {
+        "level": "Class X (SSLC)",
+        "board": "State Board of School Examinations, Tamil Nadu",
+        "school": "Sree Ramakrishna Matric Hr Sec School, Paraicode",
+        "year": "May 2022",
+        "percentage": 92.2
+      },
+      {
+        "level": "Class XI",
+        "board": "State Board of School Examinations, Tamil Nadu",
+        "school": "Sree Ramakrishna Matric Hr Sec School, Paraicode",
+        "year": "Mar 2023",
+        "percentage": 81.8
+      },
+      {
+        "level": "Class XII (HSC)",
+        "board": "State Board of School Examinations, Tamil Nadu",
+        "school": "Sree Ramakrishna Matric Hr Sec School, Paraicode",
+        "year": "Mar 2024",
+        "percentage": 82.8
+      }
+    ]
+  },
+  "skills": [
+    {
+      "id": "fullstack",
+      "index": "01",
+      "title": "Full-Stack Development",
+      "description": "Building complete web applications end to end \u2014 from React/TypeScript interfaces to backend services and databases.",
+      "tags": [
+        "React",
+        "Node.js",
+        "Tailwind"
+      ]
+    },
+    {
+      "id": "aiml",
+      "index": "02",
+      "title": "AI / ML Development",
+      "description": "Exploring machine learning fundamentals and applied AI tooling, including retrieval-augmented generation and vector search.",
+      "tags": [
+        "Python",
+        "AI",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": "software",
+      "index": "03",
+      "title": "Software Development",
+      "description": "Designing and building efficient, maintainable software with a strong grounding in data structures and algorithms.",
+      "tags": [
+        "DSA",
+        "System Design"
+      ]
+    },
+    {
+      "id": "iot",
+      "index": "04",
+      "title": "IoT & Embedded Systems",
+      "description": "Working on embedded and IoT projects, from sensor logic to publishing peer-reviewed project research.",
+      "tags": [
+        "Arduino",
+        "IoT",
+        "Sensors"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "001",
+      "index": "01",
+      "name": "IoT People Counter",
+      "description": "Embedded IoT system that detects and counts people entering a space using IR sensors. Co-authored a peer-reviewed paper on the project, published in IJARCCE (Vol. 15, Issue 4, April 2026).",
+      "tech": [
+        "C++",
+        "Embedded",
+        "IoT",
+        "IR Sensors"
+      ],
+      "github": "https://github.com/SREEJITH-16/Iot-people-counter",
+      "featured": true
+    },
+    {
+      "id": "002",
+      "index": "02",
+      "name": "SportsLog",
+      "description": "Full-stack web application for logging and tracking sports activity, with a dedicated backend alongside the client.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Backend"
+      ],
+      "github": "https://github.com/SREEJITH-16/sportslog",
+      "featured": true
+    },
+    {
+      "id": "003",
+      "index": "03",
+      "name": "EventLens",
+      "description": "Web application deployed on Vercel. Full project description pending \u2014 see the live demo and repository for details.",
+      "tech": [
+        "HTML"
+      ],
+      "github": "https://github.com/SREEJITH-16/EventLens",
+      "liveDemo": "https://event-lens-hazel.vercel.app",
+      "featured": true,
+      "needsContent": true
+    },
+    {
+      "id": "004",
+      "index": "04",
+      "name": "Portfolio Website",
+      "description": "This personal portfolio \u2014 a TanStack Start application with a custom content system, built to present projects, academics and experience.",
+      "tech": [
+        "React",
+        "TypeScript",
+        "TanStack Start",
+        "Tailwind"
+      ],
+      "github": "https://github.com/SREEJITH-16/Sreejith-Portfolio",
+      "liveDemo": "https://sreejith-portfolio-sandy.vercel.app",
+      "featured": true
+    }
+  ],
+  "experience": [
+    {
+      "id": "zoho",
+      "company": "Zoho Corporation",
+      "role": "Software Engineer (Intern)",
+      "duration": "2025 \u2014 Present",
+      "current": true,
+      "location": "Chennai, India",
+      "description": "Started my professional journey as a Software Engineer Intern at Zoho Corporation. Excited to learn, contribute and grow with the team.",
+      "tags": [
+        "Software Development",
+        "Full-Stack",
+        "Problem Solving"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "id": "ijarcce-iot",
+      "title": "IoT Project: People Counter Using IR Sensors \u2014 Publication",
+      "organization": "IJARCCE (International Journal of Advanced Research in Computer and Communication Engineering)",
+      "date": "Apr 2026",
+      "description": "Peer-reviewed paper publication, Volume 15, Issue 4. Co-authored with the SRM IoT project team, under faculty guidance.",
+      "image": "/certificates/report-and-publication-certificate-for-iot-project.jpg",
+      "link": "/certificates/pdfs/report-and-publication-certificate-for-iot-project.pdf"
+    },
+    {
+      "id": "rag-mongodb",
+      "title": "RAG with MongoDB",
+      "organization": "MongoDB",
+      "date": "Sep 2026",
+      "description": "Completion badge for MongoDB's retrieval-augmented generation curriculum.",
+      "image": "/certificates/rag-with-mongodb-mongodb.jpg",
+      "link": "/certificates/pdfs/rag-with-mongodb-mongodb.pdf"
+    },
+    {
+      "id": "oracle-sql",
+      "title": "Database Programming with SQL",
+      "organization": "Oracle Academy",
+      "date": "Apr 2026",
+      "description": "Award of Completion for the full Oracle Academy SQL coursework.",
+      "image": "/certificates/oracle-data-base-programming-with-sql.jpg",
+      "link": "/certificates/pdfs/oracle-data-base-programming-with-sql.pdf"
+    },
+    {
+      "id": "upgrad-dsa",
+      "title": "Data Structures & Algorithms \u2014 Series I",
+      "organization": "upGrad",
+      "date": "Mar 2026",
+      "description": "Course completion covering core data structures and algorithmic problem solving.",
+      "image": "/certificates/data-structures-algorithmn.jpg",
+      "link": "/certificates/pdfs/data-structures-algorithmn.pdf"
+    },
+    {
+      "id": "wingspan-coa",
+      "title": "Introduction to Computer Architecture",
+      "organization": "Wingspan",
+      "date": "Oct 2025",
+      "description": "Program completion certificate in computer organization and architecture fundamentals.",
+      "image": "/certificates/coa-certificate.jpg",
+      "link": "/certificates/pdfs/coa-certificate.pdf"
+    },
+    {
+      "id": "ace-hacks",
+      "title": "ACE Hacks 2025 \u2014 Hackathon Participation",
+      "organization": "Association of Computer Science Engineers, SRMIST",
+      "date": "Mar 2025",
+      "description": "24-hour hackathon organized by the ACE Club in collaboration with the CSI Chapter Chennai. Participated with team \"Timepass Coders.\"",
+      "image": "/certificates/ace-hackathon.jpg",
+      "link": "/certificates/pdfs/ace-hackathon.pdf"
+    },
+    {
+      "id": "ai-agent-mongodb",
+      "title": "AI Agents with MongoDB",
+      "organization": "MongoDB",
+      "date": "Sep 2026",
+      "description": "Completion badge for MongoDB's AI agents curriculum.",
+      "image": "/certificates/ai-agent-with-mongodb-mongodb.jpg",
+      "link": "/certificates/pdfs/ai-agent-with-mongodb-mongodb.pdf"
+    },
+    {
+      "id": "ai-strategies-mongodb",
+      "title": "AI Strategies with MongoDB",
+      "organization": "MongoDB",
+      "date": "Sep 2026",
+      "description": "Completion badge for MongoDB's applied AI strategy curriculum.",
+      "image": "/certificates/ai-strategies-with-mongodb-mongodb.jpg",
+      "link": "/certificates/pdfs/ai-strategies-with-mongodb-mongodb.pdf"
+    },
+    {
+      "id": "mongodb-basics",
+      "title": "MongoDB Basics for Students",
+      "organization": "MongoDB",
+      "date": "Sep 2026",
+      "description": "Completion badge covering MongoDB fundamentals.",
+      "image": "/certificates/mongodb-basics-for-students-mongodb.jpg",
+      "link": "/certificates/pdfs/mongodb-basics-for-students-mongodb.pdf"
+    },
+    {
+      "id": "vector-search",
+      "title": "Vector Search Fundamentals",
+      "organization": "MongoDB",
+      "date": "Sep 2026",
+      "description": "Completion badge for MongoDB's vector search curriculum.",
+      "image": "/certificates/vector-search-fundamentals-mongodb.jpg",
+      "link": "/certificates/pdfs/vector-search-fundamentals-mongodb.pdf"
+    },
+    {
+      "id": "ios-workshop",
+      "title": "Building iOS Apps with Human Centric Design",
+      "organization": "Computer Society of India \u2014 SRMIST Student Chapter",
+      "date": "Oct 2024",
+      "description": "2-day workshop on human-centred iOS app design, SRM Vadapalani Campus.",
+      "image": "/certificates/building-ios-certificate.jpg",
+      "link": "/certificates/pdfs/building-ios-certificate.pdf"
+    },
+    {
+      "id": "sih-internal",
+      "title": "Smart India Hackathon \u2014 Internal Hackathon",
+      "organization": "SRM Institute of Science & Technology",
+      "date": "Sep 2025",
+      "description": "Participated in the internal hackathon round with team \"Future Scripts.\"",
+      "image": "/certificates/sih-certificate.jpg",
+      "link": "/certificates/pdfs/sih-certificate.pdf"
+    },
+    {
+      "id": "flash-build",
+      "title": "Flash Build \u2014 Pre-Conference Workshop",
+      "organization": "IEEE CS Student Chapter, SRMIST",
+      "date": "Apr 2026",
+      "description": "Participation in a pre-conference workshop held ahead of ICISD '26.",
+      "image": "/certificates/flash-build.jpg",
+      "link": "/certificates/pdfs/flash-build.pdf"
+    },
+    {
+      "id": "web-dev-ubertech",
+      "title": "Web Development \u2014 Building the Digital Frontier",
+      "organization": "Association of Computer Science Engineers, SRMIST",
+      "date": "Sep 2024",
+      "description": "Pre-symposium workshop under UBERTECH '24.",
+      "image": "/certificates/ubertech-24.jpg",
+      "link": "/certificates/pdfs/web-development-certificate.pdf"
+    },
+    {
+      "id": "wadhwani",
+      "title": "Introduction to Entrepreneurship & Start-up Mindset",
+      "organization": "Wadhwani Foundation",
+      "date": "Sep 2025",
+      "description": "Self-paced completion of two Wadhwani Foundation courses on entrepreneurship fundamentals.",
+      "image": "/certificates/wadhwani.jpg",
+      "link": "/certificates/pdfs/wadhwani.pdf"
+    },
+    {
+      "id": "cisco-networking",
+      "title": "Exploring Networking & Getting Started with Cisco Packet Tracer",
+      "organization": "Cisco Networking Academy",
+      "date": "Aug 2026",
+      "description": "Two completed courses in the Cisco Networking Academy program covering Packet Tracer fundamentals.",
+      "image": "/certificates/exploring-network-with-cisco-packet-tracer.jpg",
+      "link": "/certificates/pdfs/exploring-network-with-cisco-packet-tracer.pdf"
+    },
+    {
+      "id": "coursera-excel",
+      "title": "Introduction to Microsoft Excel",
+      "organization": "Coursera Project Network",
+      "date": "Jan 2025",
+      "description": "Online non-credit project certificate.",
+      "image": "/certificates/introduction-to-microsoft-excel.jpg",
+      "link": "/certificates/pdfs/introduction-to-microsoft-excel.pdf"
+    },
+    {
+      "id": "coursera-wix",
+      "title": "Build an Automated Landing Page Using AI from Wix ADI",
+      "organization": "Coursera Project Network",
+      "date": "Jan 2025",
+      "description": "Online non-credit project certificate.",
+      "image": "/certificates/build-an-automated-landing-page-using-ao-from-wix-adi.jpg",
+      "link": "/certificates/pdfs/build-an-automated-landing-page-using-ao-from-wix-adi.pdf"
+    },
+    {
+      "id": "digital-101",
+      "title": "Digital 101 (30 Hours)",
+      "organization": "NASSCOM FutureSkills",
+      "date": "May 2025",
+      "description": "Assessment aligned to IT-ITeS Sector Skills Council competency standards \u2014 Gold category.",
+      "image": "/certificates/digital-101.jpg",
+      "link": "/certificates/pdfs/digital-101.pdf"
+    },
+    {
+      "id": "ngp-quiz",
+      "title": "\"Magic of Science\" e-Quiz \u2014 National Science Day",
+      "organization": "Dr. N.G.P. Arts and Science College",
+      "date": "Feb 2025",
+      "description": "Participated in an inter-college e-quiz; scored 84%.",
+      "image": "/certificates/ngp.jpg",
+      "link": "/certificates/pdfs/ngp.pdf"
+    },
+    {
+      "id": "intro-unix",
+      "title": "Introduction to Unix",
+      "organization": "Wingspan",
+      "date": "Oct 2025",
+      "description": "Program completion certificate.",
+      "image": "/certificates/introduction-to-unix.jpg",
+      "link": "/certificates/pdfs/introduction-to-unix.pdf"
+    },
+    {
+      "id": "soft-skills",
+      "title": "Soft Skills for IT",
+      "organization": "Great Learning Academy",
+      "date": "Nov 2024",
+      "description": "Free online course on workplace soft skills for IT professionals.",
+      "image": "/certificates/soft-skills-for-it.jpg",
+      "link": "/certificates/pdfs/soft-skills-for-it.pdf"
+    },
+    {
+      "id": "iot-cert",
+      "title": "IoT Certificate",
+      "organization": "SRM Institute of Science and Technology",
+      "date": "Feb 2026",
+      "description": "Certificate related to IoT coursework/project work.",
+      "image": "/certificates/iot-certificate.jpg",
+      "link": "/certificates/pdfs/iot-certificate.pdf"
+    }
+  ],
+  "activities": [
+    {
+      "id": "resolve-26",
+      "title": "Resolve '26 \u2014 National-level Game Jam",
+      "organization": "Developer Network Space (DNS), SRMIST",
+      "role": "Joint Head of Design",
+      "date": "31 Aug \u2013 1 Sep 2026",
+      "description": "Held a pivotal role as Joint Head of Design for a 2-day national-level game jam conducted by the Developer Network Space club.",
+      "link": "/certificates/activities/resolve-26-design-head.pdf"
+    },
+    {
+      "id": "hackelite",
+      "title": "HACKELITE Hackathon",
+      "organization": "Developer Network Space (DNS), SRMIST",
+      "role": "Working Committee",
+      "date": "14\u201315 Oct 2025",
+      "description": "Served on the working committee organizing the HACKELITE hackathon run by the Developer Network Space club.",
+      "link": "/certificates/activities/hackelite-committee.pdf"
+    },
+    {
+      "id": "defence-tech-show",
+      "title": "Defence & Technology Show \u2014 Edition 3.0",
+      "organization": "Swatantra Foundation / FIMA, Chennai Trade Centre",
+      "role": "Volunteer",
+      "date": "4\u20136 Sep 2025",
+      "description": "Volunteered at a national Defence & Technology exhibition supported by the Department of Defence Production, Government of India.",
+      "link": "/certificates/activities/defence-tech-show.pdf"
+    },
+    {
+      "id": "green-voice",
+      "title": "Community Service",
+      "organization": "Green Voice Global (NGO)",
+      "role": "Volunteer",
+      "date": "23 May \u2013 5 Jul 2026",
+      "description": "Contributed volunteer time to Green Voice Global's community and environmental service initiatives.",
+      "link": "/certificates/activities/green-voice-ngo.pdf"
+    }
+  ]
+}
