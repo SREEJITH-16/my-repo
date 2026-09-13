@@ -12,7 +12,7 @@
       "degree": "B.Tech, Computer Science and Engineering",
       "institution": "SRM Institute of Science and Technology",
       "campus": "Vadapalani Campus, Chennai",
-      "duration": "2024 \u2013 2028",
+      "duration": "2024 – 2028",
       "expectedGraduation": "2028"
     },
     "interests": [
@@ -35,7 +35,7 @@
       },
       {
         "label": "Company",
-        "value": "1"
+        "value": "5"
       },
       {
         "label": "Learning",
@@ -50,7 +50,7 @@
     "degree": "B.Tech Computer Science and Engineering",
     "institution": "SRM Institute of Science and Technology",
     "campus": "Vadapalani Campus, Chennai",
-    "duration": "2024 \u2013 2028",
+    "duration": "2024 – 2028",
     "semesters": [
       {
         "semester": "Semester 1",
@@ -102,7 +102,7 @@
       "id": "fullstack",
       "index": "01",
       "title": "Full-Stack Development",
-      "description": "Building complete web applications end to end \u2014 from React/TypeScript interfaces to backend services and databases.",
+      "description": "Building complete web applications end to end — from React/TypeScript interfaces to backend services and databases.",
       "tags": [
         "React",
         "Node.js",
@@ -175,7 +175,7 @@
       "id": "003",
       "index": "03",
       "name": "EventLens",
-      "description": "Web application deployed on Vercel. Full project description pending \u2014 see the live demo and repository for details.",
+      "description": "Web application deployed on Vercel. Full project description pending — see the live demo and repository for details.",
       "tech": [
         "HTML"
       ],
@@ -188,7 +188,7 @@
       "id": "004",
       "index": "04",
       "name": "Portfolio Website",
-      "description": "This personal portfolio \u2014 a TanStack Start application with a custom content system, built to present projects, academics and experience.",
+      "description": "This personal portfolio — a TanStack Start application with a custom content system, built to present projects, academics and experience.",
       "tech": [
         "React",
         "TypeScript",
@@ -205,7 +205,7 @@
       "id": "zoho",
       "company": "Zoho Corporation",
       "role": "Software Engineer (Intern)",
-      "duration": "2025 \u2014 Present",
+      "duration": "2025 — Present",
       "current": true,
       "location": "Chennai, India",
       "description": "Started my professional journey as a Software Engineer Intern at Zoho Corporation. Excited to learn, contribute and grow with the team.",
@@ -219,7 +219,7 @@
   "certificates": [
     {
       "id": "ijarcce-iot",
-      "title": "IoT Project: People Counter Using IR Sensors \u2014 Publication",
+      "title": "IoT Project: People Counter Using IR Sensors — Publication",
       "organization": "IJARCCE (International Journal of Advanced Research in Computer and Communication Engineering)",
       "date": "Apr 2026",
       "description": "Peer-reviewed paper publication, Volume 15, Issue 4. Co-authored with the SRM IoT project team, under faculty guidance.",
@@ -246,7 +246,7 @@
     },
     {
       "id": "upgrad-dsa",
-      "title": "Data Structures & Algorithms \u2014 Series I",
+      "title": "Data Structures & Algorithms — Series I",
       "organization": "upGrad",
       "date": "Mar 2026",
       "description": "Course completion covering core data structures and algorithmic problem solving.",
@@ -264,7 +264,7 @@
     },
     {
       "id": "ace-hacks",
-      "title": "ACE Hacks 2025 \u2014 Hackathon Participation",
+      "title": "ACE Hacks 2025 — Hackathon Participation",
       "organization": "Association of Computer Science Engineers, SRMIST",
       "date": "Mar 2025",
       "description": "24-hour hackathon organized by the ACE Club in collaboration with the CSI Chapter Chennai. Participated with team \"Timepass Coders.\"",
@@ -310,7 +310,7 @@
     {
       "id": "ios-workshop",
       "title": "Building iOS Apps with Human Centric Design",
-      "organization": "Computer Society of India \u2014 SRMIST Student Chapter",
+      "organization": "Computer Society of India — SRMIST Student Chapter",
       "date": "Oct 2024",
       "description": "2-day workshop on human-centred iOS app design, SRM Vadapalani Campus.",
       "image": "/certificates/building-ios-certificate.jpg",
@@ -318,7 +318,7 @@
     },
     {
       "id": "sih-internal",
-      "title": "Smart India Hackathon \u2014 Internal Hackathon",
+      "title": "Smart India Hackathon — Internal Hackathon",
       "organization": "SRM Institute of Science & Technology",
       "date": "Sep 2025",
       "description": "Participated in the internal hackathon round with team \"Future Scripts.\"",
@@ -327,7 +327,7 @@
     },
     {
       "id": "flash-build",
-      "title": "Flash Build \u2014 Pre-Conference Workshop",
+      "title": "Flash Build — Pre-Conference Workshop",
       "organization": "IEEE CS Student Chapter, SRMIST",
       "date": "Apr 2026",
       "description": "Participation in a pre-conference workshop held ahead of ICISD '26.",
@@ -336,7 +336,7 @@
     },
     {
       "id": "web-dev-ubertech",
-      "title": "Web Development \u2014 Building the Digital Frontier",
+      "title": "Web Development — Building the Digital Frontier",
       "organization": "Association of Computer Science Engineers, SRMIST",
       "date": "Sep 2024",
       "description": "Pre-symposium workshop under UBERTECH '24.",
@@ -384,13 +384,13 @@
       "title": "Digital 101 (30 Hours)",
       "organization": "NASSCOM FutureSkills",
       "date": "May 2025",
-      "description": "Assessment aligned to IT-ITeS Sector Skills Council competency standards \u2014 Gold category.",
+      "description": "Assessment aligned to IT-ITeS Sector Skills Council competency standards — Gold category.",
       "image": "/certificates/digital-101.jpg",
       "link": "/certificates/pdfs/digital-101.pdf"
     },
     {
       "id": "ngp-quiz",
-      "title": "\"Magic of Science\" e-Quiz \u2014 National Science Day",
+      "title": "\"Magic of Science\" e-Quiz — National Science Day",
       "organization": "Dr. N.G.P. Arts and Science College",
       "date": "Feb 2025",
       "description": "Participated in an inter-college e-quiz; scored 84%.",
@@ -428,10 +428,10 @@
   "activities": [
     {
       "id": "resolve-26",
-      "title": "Resolve '26 \u2014 National-level Game Jam",
+      "title": "Resolve '26 — National-level Game Jam",
       "organization": "Developer Network Space (DNS), SRMIST",
       "role": "Joint Head of Design",
-      "date": "31 Aug \u2013 1 Sep 2026",
+      "date": "31 Aug – 1 Sep 2026",
       "description": "Held a pivotal role as Joint Head of Design for a 2-day national-level game jam conducted by the Developer Network Space club.",
       "link": "/certificates/activities/resolve-26-design-head.pdf"
     },
@@ -440,16 +440,16 @@
       "title": "HACKELITE Hackathon",
       "organization": "Developer Network Space (DNS), SRMIST",
       "role": "Working Committee",
-      "date": "14\u201315 Oct 2025",
+      "date": "14–15 Oct 2025",
       "description": "Served on the working committee organizing the HACKELITE hackathon run by the Developer Network Space club.",
       "link": "/certificates/activities/hackelite-committee.pdf"
     },
     {
       "id": "defence-tech-show",
-      "title": "Defence & Technology Show \u2014 Edition 3.0",
+      "title": "Defence & Technology Show — Edition 3.0",
       "organization": "Swatantra Foundation / FIMA, Chennai Trade Centre",
       "role": "Volunteer",
-      "date": "4\u20136 Sep 2025",
+      "date": "4–6 Sep 2025",
       "description": "Volunteered at a national Defence & Technology exhibition supported by the Department of Defence Production, Government of India.",
       "link": "/certificates/activities/defence-tech-show.pdf"
     },
@@ -458,7 +458,7 @@
       "title": "Community Service",
       "organization": "Green Voice Global (NGO)",
       "role": "Volunteer",
-      "date": "23 May \u2013 5 Jul 2026",
+      "date": "23 May – 5 Jul 2026",
       "description": "Contributed volunteer time to Green Voice Global's community and environmental service initiatives.",
       "link": "/certificates/activities/green-voice-ngo.pdf"
     }
