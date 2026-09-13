@@ -1,6 +1,6 @@
 {
   "profile": {
-    "name": "Sreejith Suresh",
+    "name": "Sreejith S",
     "headline": "Software Engineer & Full-Stack Developer",
     "location": "Chennai, India",
     "tagline": "Building Impact Through Code.",
@@ -217,15 +217,6 @@
     }
   ],
   "certificates": [
-    {
-      "id": "ijarcce-iot",
-      "title": "IoT Project: People Counter Using IR Sensors — Publication",
-      "organization": "IJARCCE (International Journal of Advanced Research in Computer and Communication Engineering)",
-      "date": "Apr 2026",
-      "description": "Peer-reviewed paper publication, Volume 15, Issue 4. Co-authored with the SRM IoT project team, under faculty guidance.",
-      "image": "/certificates/report-and-publication-certificate-for-iot-project.jpg",
-      "link": "/certificates/pdfs/report-and-publication-certificate-for-iot-project.pdf"
-    },
     {
       "id": "rag-mongodb",
       "title": "RAG with MongoDB",
